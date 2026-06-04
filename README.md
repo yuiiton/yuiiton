@@ -1,4 +1,4 @@
-# Yo! Eu sou Hebert Ruan 👋
+# Yo! Eu sou Hebert Ruan!
 
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS), com foco em desenvolvimento backend utilizando Python, FastAPI e PostgreSQL.
 
