@@ -15,17 +15,6 @@ Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolv
 - Linux
 - Docker
 
-## Projetos em Destaque
-
-### Se Liga ENEM Backend
-API para simulação e análise de desempenho no ENEM e SISU.
-
-### Project Manager API
-API CRUD para gerenciamento de projetos com validação de dados e documentação OpenAPI.
-
-### Gerenciador de Programas CLI
-Aplicação para gerenciamento e execução de programas através do terminal.
-
 ## Atualmente Estudando
 
 - React
