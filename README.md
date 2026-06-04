@@ -1,16 +1,39 @@
-## Hi there 👋
+# Yo! Eu sou Hebert Ruan 👋
 
-<!--
-**yuiiton/yuiiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS), com foco em desenvolvimento backend utilizando Python, FastAPI e PostgreSQL.
 
-Here are some ideas to get you started:
+Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolvimento de software, APIs REST, bancos de dados e aplicações web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- FastAPI
+- SQLModel
+- PostgreSQL
+- SQLite
+- Git & GitHub
+- Linux
+- Docker
+
+## Projetos em Destaque
+
+### Se Liga ENEM Backend
+API para simulação e análise de desempenho no ENEM e SISU.
+
+### Project Manager API
+API CRUD para gerenciamento de projetos com validação de dados e documentação OpenAPI.
+
+### Gerenciador de Programas CLI
+Aplicação para gerenciamento e execução de programas através do terminal.
+
+## Atualmente Estudando
+
+- React
+- Tailwind CSS
+- TypeScript
+- Testes com Pytest
+- Arquitetura de Software
+
+## Contato
+
+📧 LinkedIn: https://linkedin.com/in/hebert-ruan
