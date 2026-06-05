@@ -17,7 +17,7 @@ Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolv
 
 ## Atualmente Estudando
 
-- React
+- Vue
 - Tailwind CSS
 - TypeScript
 - Testes com Pytest
