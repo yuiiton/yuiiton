@@ -15,13 +15,6 @@ Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolv
 - Linux
 - Docker
 
-## Atualmente Estudando
-
-- Vue
-- Tailwind CSS
-- TypeScript
-- Testes com Pytest
-- Arquitetura de Software
 
 ## Contato
 
