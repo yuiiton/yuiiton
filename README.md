@@ -10,7 +10,6 @@ Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolv
 - FastAPI
 - SQLModel
 - PostgreSQL
-- SQLite
 - Git & GitHub
 - Linux
 - Docker
