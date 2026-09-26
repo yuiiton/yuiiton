@@ -1,20 +1,38 @@
-# Yo! Eu sou Hebert Ruan!
+# Yo! Eu sou Hebert Ruan.
 
-Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS), com foco em desenvolvimento backend utilizando Python, FastAPI e PostgreSQL.
+🎓 **Análise e Desenvolvimento de Sistemas @ Instituto Federal de Sergipe (IFS)**
 
-Atualmente estou construindo projetos para aprofundar conhecimentos em desenvolvimento de software, APIs REST, bancos de dados e aplicações web.
+Sou estudante de ADS com foco em **desenvolvimento backend**, principalmente utilizando **Python, FastAPI e PostgreSQL**.
+
+Atualmente, venho construindo projetos para desenvolver experiência prática em **desenvolvimento de software, APIs REST, bancos de dados, testes e arquitetura de aplicações**.
 
 ## Tecnologias
 
-- Python
-- FastAPI
-- SQLModel
-- PostgreSQL
-- Git & GitHub
-- Linux
-- Docker
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,linux,docker)](https://skillicons.dev)
+
+## No que estou trabalhando
+
+* Desenvolvimento de APIs com **FastAPI**
+* Modelagem e integração com **PostgreSQL**
+* Arquitetura e organização de aplicações backend
+* Testes automatizados com **Pytest**
+* Migrações de banco de dados com **Alembic**
+* Projetos acadêmicos e pessoais para aplicar esses conhecimentos na prática
+
+## Principais projetos
+
+🔹 **Project Manager API**
+API REST para gerenciamento de projetos, desenvolvida com FastAPI, SQLModel e PostgreSQL.
+
+🔹 **Academic Tracker**
+Aplicação para acompanhamento de disciplinas e faltas acadêmicas.
+
+🔹 **IFS Campus Map** *(em desenvolvimento)*
+Projeto de mapa interativo do campus do IFS, com informações sobre prédios, andares e salas.
+
+## 📫 Contato
+
+* 💼 LinkedIn: [linkedin.com/in/hebert-ruan](https://linkedin.com/in/hebert-ruan)
+* 📧 Email: [hebertruan00@gmail.com](https://hebertruan00@gmail.com)
 
 
-## Contato
-
-📧 LinkedIn: https://linkedin.com/in/hebert-ruan
