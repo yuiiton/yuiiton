@@ -27,9 +27,6 @@ API REST para gerenciamento de projetos, desenvolvida com FastAPI, SQLModel e Po
 🔹 **Academic Tracker**
 Aplicação para acompanhamento de disciplinas e faltas acadêmicas.
 
-🔹 **IFS Campus Map** *(em desenvolvimento)*
-Projeto de mapa interativo do campus do IFS, com informações sobre prédios, andares e salas.
-
 ## 📫 Contato
 
 * 💼 LinkedIn: [linkedin.com/in/hebert-ruan](https://linkedin.com/in/hebert-ruan)
