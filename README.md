@@ -19,14 +19,6 @@ Atualmente, venho construindo projetos para desenvolver experiência prática em
 * Migrações de banco de dados com **Alembic**
 * Projetos acadêmicos e pessoais para aplicar esses conhecimentos na prática
 
-## Principais projetos
-
-🔹 **Project Manager API**
-API REST para gerenciamento de projetos, desenvolvida com FastAPI, SQLModel e PostgreSQL.
-
-🔹 **Academic Tracker**
-Aplicação para acompanhamento de disciplinas e faltas acadêmicas.
-
 ## 📫 Contato
 
 * 💼 LinkedIn: [linkedin.com/in/hebert-ruan](https://linkedin.com/in/hebert-ruan)
